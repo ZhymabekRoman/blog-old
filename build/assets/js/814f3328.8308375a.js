@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkzhymabek_romans_site=self.webpackChunkzhymabek_romans_site||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"List of the essential applications that you need to have","permalink":"/blog/must-have-applications"}]}')}}]);
