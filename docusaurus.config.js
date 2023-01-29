@@ -60,7 +60,7 @@ const config = {
           src: 'img/profile.png',
         },
         items: [
-          { to: '/blog', label: 'Blog', position: 'right' },
+          { to: 'posts', label: 'Blog', position: 'right' },
           {
             href: 'https://github.com/ZhymabekRoman/blog',
             position: 'right',
