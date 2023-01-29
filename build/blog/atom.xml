@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://your-docusaurus-test-site.com/blog</id>
+    <title>ZhymabekRoman's site Blog</title>
+    <updated>2023-01-29T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://your-docusaurus-test-site.com/blog"/>
+    <subtitle>ZhymabekRoman's site Blog</subtitle>
+    <icon>https://your-docusaurus-test-site.com/img/profile.png</icon>
+    <entry>
+        <title type="html"><![CDATA[List of the essential applications that you need to have]]></title>
+        <id>must-have-applications</id>
+        <link href="https://your-docusaurus-test-site.com/blog/must-have-applications"/>
+        <updated>2023-01-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[These are my recommended must-have applications that you should try to use (at least)]]></summary>
+        <content type="html"><![CDATA[<p>These are my recommended must-have applications that you should try to use (at least)</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="linux">Linux<a class="hash-link" href="#linux" title="Direct link to heading">​</a></h2><ol><li>WPS Office - a versatile alternative to Microsoft Office, including word processing, spreadsheets, presentations, PDF conversion, and more.</li><li>Telegram - a freeware, cross-platform, cloud-based instant messaging, video calling, and VoIP service.</li><li>Sublime Text - a shareware cross-platform source code editor. It natively supports many programming languages and markup languages. Users can expand its functionality with plugins, typically community-built and maintained under free-software licenses.</li></ol>]]></content>
+        <author>
+            <name>Zhymabek Roman</name>
+            <uri>https://github.com/ZhymabekRoman</uri>
+        </author>
+        <category label="applications" term="applications"/>
+        <category label="linux" term="linux"/>
+        <category label="android" term="android"/>
+        <category label="must-have" term="must-have"/>
+        <category label="essential" term="essential"/>
+    </entry>
+</feed>

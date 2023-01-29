@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkzhymabek_romans_site=self.webpackChunkzhymabek_romans_site||[]).push([[825],{4274:a=>{a.exports=JSON.parse('{"label":"android","permalink":"/blog/tags/android","allTagsPath":"/blog/tags","count":1}')}}]);
