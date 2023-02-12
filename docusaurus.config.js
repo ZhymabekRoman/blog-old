@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "ZhymabekRoman's site",
+  title: "Zhymabek Roman's blog site",
   tagline: 'Be best version of yourself',
   url: 'https://zhymabekroman.github.io',
   baseUrl: '/blog/',
@@ -34,7 +34,7 @@ const config = {
       ({
         docs: false,
         blog: {
-		path: 'posts',
+          path: 'posts',
           routeBasePath: 'posts',
           showReadingTime: true,
           // Please change this to your repo.
