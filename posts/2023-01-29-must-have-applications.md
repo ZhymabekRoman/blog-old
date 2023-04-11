@@ -11,19 +11,20 @@ These are my recommended must-have applications that you should try to use (at l
 
 ## Linux
 ### GUI
-I have never used any other distros than Debian and Ubuntu. So I prefer to use Debian with KDE, not snaped Ubuntu. KDE is the best DE I've ever been seen in this Linux DE jungles lol :)
+I prefer to use Debian with KDE, not snaped Ubuntu. KDE is the best DE I've ever been seen in this Linux DE jungles lol :)
 
-1. WPS Office - a full-featured alternative to Microsoft Office, including word processing, spreadsheets, presentations, PDF conversion and more. For me Libre Office is also good, but sometimes it's not correctly opens some documents, and UI is too old for new generation peoples :)
+1. [WPS Office](https://www.wps.com/office/linux/) - a full-featured alternative to Microsoft Office, including word processing, spreadsheets, presentations, PDF conversion and more. For me Libre Office is also good, but sometimes it's not correctly opens some documents, and UI is too old for new generation peoples :)
 2. Telegram - a freeware (almost), cross-platform, cloud-based instant messaging, video and audio calling messenger.
 3. Sublime Text - a shareware cross-platform source code editor. It natively supports many programming languages and markup languages. As an alternative - Kate.
-4. Microsoft Edge - Chromium based browser from Microsoft. I think I need to switch to a Chromium.
+4. Chromium - open-source graphical web browser based on the Blink rendering engine.
 5. Obsidian - second brain of my entire life.
 6. Puffin Browser - Chromium based browser. Use cloud server to render pages. Good solution for low end PC and laptop devices. Installation guide for Linux - https://github.com/ZhymabekRoman/Puffin-Browser-on-Linux
 
 ### CLI
-1. fish - best alternative for bash, sometimes it's unusual but convenient. As an alternative I've tried using ZSH with OhMyZSH configs, but for me it's slow.
+1. fish - best alternative for bash, sometimes it's unusual but convenient. Not compatible with POSIX syntax. As an alternative I've tried using ZSH with OhMyZSH configs, but for me it's slow.
 2. vim - best IDE in the world! My config file - https://github.com/ZhymabekRoman/MyVIM. As an alternative I've tried to using NeoVIM, but for me it's not convenient.
 3. NextDNS - DNS with ad blocker functionality.
+4. [WARP](https://developers.cloudflare.com/warp-client/) - free mini "VPN" for linux.
 
 ## Android
 1. Termux - GNU utils on your Android smartphone. Free and Open Source.
