@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkzhymabek_romans_site=self.webpackChunkzhymabek_romans_site||[]).push([[174],{7445:s=>{s.exports=JSON.parse('{"label":"applications","permalink":"/blog/posts/tags/applications","allTagsPath":"/blog/posts/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkzhymabek_romans_site=self.webpackChunkzhymabek_romans_site||[]).push([[5547],{7097:s=>{s.exports=JSON.parse('{"label":"must-have","permalink":"/blog/posts/tags/must-have","allTagsPath":"/blog/posts/tags","count":2}')}}]);
